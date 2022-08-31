@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/proposal-FrontEndDev-Upwork-1434-1/static/css/main.d7054853.css",
+    "main.js": "/proposal-FrontEndDev-Upwork-1434-1/static/js/main.a558d539.js",
+    "static/js/787.dd8a18ce.chunk.js": "/proposal-FrontEndDev-Upwork-1434-1/static/js/787.dd8a18ce.chunk.js",
+    "index.html": "/proposal-FrontEndDev-Upwork-1434-1/index.html",
+    "main.d7054853.css.map": "/proposal-FrontEndDev-Upwork-1434-1/static/css/main.d7054853.css.map",
+    "main.a558d539.js.map": "/proposal-FrontEndDev-Upwork-1434-1/static/js/main.a558d539.js.map",
+    "787.dd8a18ce.chunk.js.map": "/proposal-FrontEndDev-Upwork-1434-1/static/js/787.dd8a18ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7054853.css",
+    "static/js/main.a558d539.js"
+  ]
+}
