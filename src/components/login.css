@@ -1,0 +1,45 @@
+.login {
+	padding: 32px;
+}
+.page-heading {
+	margin-top: 0;
+	margin-bottom: 32px;
+	font: normal normal 500 20px/26px Roboto;
+	letter-spacing: 0px;
+	text-transform: uppercase;
+}
+.input-field {
+	background-color: transparent !important;
+	border: 1px solid #999999;
+	padding: 16px;
+	border-radius: 4px;
+	width: 504px;
+	height: 21px;
+	color: #fff;
+	font: normal normal 500 16px/21px Roboto;
+}
+.input-field::placeholder {
+	font: normal normal 500 16px/21px Roboto;
+	letter-spacing: 0px;
+	color: #999999;
+	opacity: 1;
+}
+.input-field:active,
+.input-field:focus {
+	font: normal normal 500 16px/21px Roboto;
+	letter-spacing: 0px;
+	color: #fff;
+	opacity: 1;
+}
+.email-field {
+	margin-bottom: 16px;
+}
+.passwd-field {
+	margin-bottom: 613px;
+}
+.btn-section {
+	display: flex;
+	width: 536px;
+	/* border: 1px red solid; */
+	justify-content: space-between;
+}

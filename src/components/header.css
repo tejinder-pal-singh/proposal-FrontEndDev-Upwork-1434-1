@@ -1,0 +1,55 @@
+.header {
+	background: #282828 0% 0% no-repeat padding-box;
+	opacity: 1;
+	display: flex;
+	align-content: center;
+	justify-content: space-between;
+	align-items: center;
+	height: 90px;
+	padding-left: 32px;
+	padding-right: 32px;
+}
+.heading {
+	font: normal normal 500 20px/26px Roboto;
+	letter-spacing: 0px;
+	opacity: 1;
+	color: #66dc78;
+}
+.heading span {
+	color: #ffffff;
+}
+
+.outline-btn {
+	background-color: transparent;
+	border-color: #66dc78;
+	height: 34px;
+	width: 82px;
+	border-radius: 4px;
+	border-style: solid;
+	color: #66dc78;
+	cursor: pointer;
+}
+
+.action-btn {
+	/* border-color: #66dc78; */
+	text-transform: uppercase;
+	width: 264px;
+	height: 53px;
+	border-radius: 4px;
+	border: none;
+	background: #282828 0% 0% no-repeat padding-box;
+	color: #ffffff;
+	font: normal normal medium 16px/21px Roboto;
+	letter-spacing: 0px;
+	cursor: pointer;
+}
+.secondary-btn {
+	background: #282828 0% 0% no-repeat padding-box;
+	color: #ffffff;
+}
+.primary-btn {
+	background: #66dc78 0% 0% no-repeat padding-box;
+	font: normal normal medium 16px/21px Roboto;
+	letter-spacing: 0px;
+	color: #ffffff;
+}
